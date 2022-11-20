@@ -1,0 +1,12 @@
+@font-face{
+  font-family: "MarkPro";
+  src: url("fonts/Mark-Pro.ttf") format("truetype");
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: MarkPro;
+}

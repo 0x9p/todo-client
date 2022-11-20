@@ -1,0 +1,21 @@
+.button {
+  height: 18px;
+  padding: 0 4px;
+  border: solid 1px transparent;
+  background-color: transparent;
+  font-family: MarkPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-decoration: underline;
+  color: #4a77e5;
+  cursor: pointer;
+}
+
+.active {
+  text-decoration: none;
+  color: #1f2a4b;
+}

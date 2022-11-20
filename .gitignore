@@ -1,0 +1,15 @@
+# misc
+.DS_Store
+
+# IntelliJ Idea
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Node.js
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
